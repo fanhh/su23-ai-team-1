@@ -1,7 +1,5 @@
 # Signature Detection, Extraction, and Translation
-
-![Screenshot 2023-10-02 201703](https://github.com/EthanFlores1/practice/assets/110417575/c11c8cff-7174-486f-9deb-2bbeef96cbef)
-
+![Screenshot 2023-10-02 201703](https://github.com/acmucsd-projects/su23-ai-team-1/assets/110417575/0642fc84-19d8-4bea-a495-d7cf430f11fd)
 ## Table of Contents:
 - Background & Dataset
 - Workflow
@@ -22,7 +20,7 @@ The overall workflow of the project went as following:
 - Send the image over to a translation model which will translate it
 
 ## 3. Technologies and Libraries
-![Screenshot 2023-10-02 204159](https://github.com/EthanFlores1/practice/assets/110417575/6a0b8bc2-b62c-4664-8ab5-1861878598c1)
+![Screenshot 2023-10-02 204159](https://github.com/acmucsd-projects/su23-ai-team-1/assets/110417575/908a226d-488e-4f11-b583-d18de999485b)
 
 This entire project was created using the Python programming language. We utilized various neural network architectures such as an autoencoder (artificial neural network) and AlexNet (convolutional neural network). Some of the libraries we used include: PyTorch, TensorFlow, OpenCV, Scikit-learn, Numpy, and Pandas.
 

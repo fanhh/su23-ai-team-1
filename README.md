@@ -12,7 +12,7 @@
 ## 1. Background & Dataset
 Digital signatures have been rapidly evolving as new technologies have allowed for document sharing and signing to become online. However, with a signature, it might not be apparent who signed it due to the variability in the appearance of the signature. To address this, we have created a machine learning model to detect the position of the signature and extract it into a snipper which has also been cleaned. To see who signed it, the snippet will be sent over to a translation model which will translate the signature into plain English.
 
-The dataset we used include . . . which is . . .
+ The [dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps) we used was from Kaggle which contains images of documents each signed by different individuals.
 
 ## 2. Workflow
 The overall workflow of the project went as following:

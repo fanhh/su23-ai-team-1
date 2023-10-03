@@ -35,4 +35,4 @@ Because signatures vary from person to person with no set outline, translating t
 - Melanie Carranza
 - Ethan Flores
 - Xiang Ding
-- Cody Rupp
+- Cody Rupp [LinkedIn](https://www.linkedin.com/in/codyprupp) | [GitHub](https://www.github.com/codyprupp)

@@ -32,5 +32,5 @@ Because signatures vary from person to person with no set outline, translating t
 - Siddharth Vyasabattu [Linkedin](https://www.linkedin.com/in/xiang-ding-) | [Github](https://github.com/fanhh)
 - Melanie Carranza
 - Ethan Flores [LinkedIn](https://www.linkedin.com/in/ethan-flores-0317b9283) | [Github](https://github.com/EthanFlores1)
-- Xiang Ding
+- Xiang Ding [LinkedIn](https://www.linkedin.com/in/xiang-ding-) | [Github](https://github.com/fanhh)
 - Cody Rupp [LinkedIn](https://www.linkedin.com/in/codyprupp) | [GitHub](https://www.github.com/codyprupp)
